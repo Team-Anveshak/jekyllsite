@@ -33,7 +33,7 @@
 
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .heading {
-  text-rendering: optimizeLegibility; 
+  text-rendering: optimizeLegibility;
 }
 
 h1 + h2, .h1 + .h2, h1 + .h2, .h1 + h2,
@@ -86,7 +86,7 @@ blockquote {
 }
 
 .fine {
-  font-size: .83em;
+  font-size: .63em;
 }
 
 .faded {
@@ -159,4 +159,3 @@ h1[id], h2[id], h3[id], h4[id], h5[id], h6[id] {
     break-after: avoid-page;
   }
 }
-
