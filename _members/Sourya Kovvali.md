@@ -1,8 +1,8 @@
 ---
 layout:       member
 title:        Sourya Kovvali
-rank:         3
-caption:      Team President, Web and Design, TeRA
+rank:         1
+caption:      Notable Alumni , Webdev, Design Engineer
 description:  >
   Hello
 image:        /assets/img/members/Sourya Kovvali.jpg
