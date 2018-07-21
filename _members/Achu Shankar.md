@@ -2,7 +2,7 @@
 layout:       member
 title:        Achu Shankar
 rank:         11
-caption:      Software Engineer
+caption:      Team lead, Elec lead
 description:  >
   Hello
 image:        /assets/img/members/Achu Shankar.jpg

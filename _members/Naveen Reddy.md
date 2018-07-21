@@ -2,7 +2,7 @@
 layout:       member
 title:        Naveen Reddy
 rank:         15
-caption:      Mechanical Engineer (Chassis)
+caption:      Digger lead
 description:  >
   Hello
 image:        /assets/img/members/Naveen Reddy.jpg

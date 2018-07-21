@@ -2,7 +2,7 @@
 layout:       member
 title:        Sai Venkat Gunda
 rank:         100
-caption:      Fresher
+caption:      Design engineer (Chassis)
 image:        /assets/img/freshers/Sai Venkat Gunda.jpg
 screenshot:
   src:        /assets/img/freshers/Sai Venkat Gunda.jpg

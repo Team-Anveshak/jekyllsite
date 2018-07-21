@@ -2,7 +2,7 @@
 layout:       member
 title:        Niyas A
 rank:         12
-caption:      Software Engineer
+caption:      Software lead
 description:  >
   Hello
 image:        /assets/img/members/Niyas A.jpg

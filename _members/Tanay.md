@@ -2,7 +2,7 @@
 layout:       member
 title:        Tanay
 rank:         100
-caption:      Fresher
+caption:      Design engineer (Chassis)
 image:        /assets/img/freshers/Tanay.jpg
 screenshot:
   src:        /assets/img/freshers/Tanay.jpg

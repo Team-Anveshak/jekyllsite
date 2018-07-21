@@ -2,7 +2,7 @@
 layout:       member
 title:        Abhishek Raghunathan
 rank:         17
-caption:      Mechanical Engineer (TeRA) and a kinky king
+caption:      Team lead, Mech lead
 description:  >
   Hello
 image:        /assets/img/members/Abhishek Raghunathan.jpg

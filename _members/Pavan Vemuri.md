@@ -2,7 +2,7 @@
 layout:       member
 title:        Pavan Vemuri
 rank:         100
-caption:      Fresher
+caption:      Embedded systems engineer
 image:        /assets/img/freshers/Pavan Vemuri.jpg
 screenshot:
   src:        /assets/img/freshers/Pavan Vemuri.jpg

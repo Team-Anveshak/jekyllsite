@@ -2,7 +2,7 @@
 layout:       member
 title:        Shashank Ramesh
 rank:         13
-caption:      Electronics Engineer
+caption:      Control systems lead, Finance
 description:  >
   Hello
 image:        /assets/img/members/Shashank Ramesh.jpg

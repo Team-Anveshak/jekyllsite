@@ -2,7 +2,7 @@
 layout:       member
 title:        Tarun Prasad
 rank:         100
-caption:      Fresher
+caption:      Design engineer (arm) & science team
 image:        /assets/img/freshers/Tarun Prasad.jpg
 screenshot:
   src:        /assets/img/freshers/Tarun Prasad.jpg

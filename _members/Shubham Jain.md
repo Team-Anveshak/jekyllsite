@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Shubham Jain
-caption:      Mechanical Engineer (Chassis)
+caption:      Chassis lead
 rank:         16
 description:  >
   Hello

@@ -2,7 +2,7 @@
 layout:       member
 title:        Sambhav Redasani
 rank:         100
-caption:      Fresher
+caption:      Design engineer (Chassis) & science team	
 image:        /assets/img/freshers/Sambhav Redasani.jpg
 screenshot:
   src:        /assets/img/freshers/Sambhav Redasani.jpg
