@@ -2,7 +2,7 @@
 layout:       member
 title:        Sourya Kovvali
 rank:         1
-caption:      Notable Alumnus
+caption:      President	
 image:        /assets/img/members/Sourya Kovvali.jpg
 screenshot:
   src:        /assets/img/members/Sourya Kovvali.jpg
