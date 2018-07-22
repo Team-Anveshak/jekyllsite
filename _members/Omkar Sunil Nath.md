@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Omkar Sunil Nath
-rank:         100
+rank:         13
 caption:      Communications engineer
 image:        /assets/img/freshers/Omkar Sunil Nath.jpg
 screenshot:

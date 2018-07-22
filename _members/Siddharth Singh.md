@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Siddharth Singh
-rank:         100
+rank:         18
 caption:      Design engineer (Chassis)
 image:        /assets/img/freshers/Siddharth Singh.jpg
 screenshot:

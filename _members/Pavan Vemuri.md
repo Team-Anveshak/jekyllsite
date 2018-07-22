@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Pavan Vemuri
-rank:         100
+rank:         14
 caption:      Embedded systems engineer
 image:        /assets/img/freshers/Pavan Vemuri.jpg
 screenshot:

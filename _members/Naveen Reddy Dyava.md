@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Naveen Reddy Dyava
-rank:         100
+rank:         12
 caption:      Design engineer (Arm)
 image:        /assets/img/freshers/Naveen Reddy Dyava.jpg
 screenshot:

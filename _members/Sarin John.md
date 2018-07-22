@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Sarin John
-rank:         100
+rank:         17
 caption:      Embedded systems engineer
 image:        /assets/img/freshers/Sarin John.jpg
 screenshot:

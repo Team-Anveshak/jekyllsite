@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Aswin Vijay
-rank:         100
+rank:         11
 caption:      Design engineer(Arm)
 image:        /assets/img/freshers/Aswin Vijay.jpg
 screenshot:
