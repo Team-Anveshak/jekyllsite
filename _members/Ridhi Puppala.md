@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Ridhi Puppala
-rank:         2
+rank:         10
 caption:      Team Lead, Electronics
 description:  >
   Hello

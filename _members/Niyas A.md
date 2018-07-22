@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Niyas A
-rank:         12
+rank:         4
 caption:      Software lead
 description:  >
   Hello

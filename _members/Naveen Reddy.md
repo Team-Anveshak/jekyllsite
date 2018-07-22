@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Naveen Reddy
-rank:         15
+rank:         5
 caption:      Digger lead
 description:  >
   Hello

@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Adarsh Somayaji
-rank:         6
+rank:         9
 caption:      Mech., Money and Mangalore
 description:  >
   Hello
