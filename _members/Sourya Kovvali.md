@@ -2,7 +2,7 @@
 layout:       member
 title:        Sourya Kovvali
 rank:         1
-caption:      Notable Alumnus , Webdev, Design Engineer
+caption:      Notable Alumnus
 description:  >
   Hello
 image:        /assets/img/members/Sourya Kovvali.jpg
