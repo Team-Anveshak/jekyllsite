@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: projects
 title: Our Team
 menu: true
 order: 1
