@@ -1,5 +1,5 @@
 ---
-layout: project	
+layout: projects	
 title: Our Team
 show_collection: members
 description: >
