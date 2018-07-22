@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Vaishnavi Lakkalkatti
-rank:         21
+rank:         16
 caption:      Software engineer
 image:        /assets/img/freshers/Vaishnavi Lakkalkatti.jpg
 screenshot:
