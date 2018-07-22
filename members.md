@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post	
 title: Our Team
 show_collection: members
 description: >
