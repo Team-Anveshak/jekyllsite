@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Abhishek Raghunathan
-rank:         17
+rank:         2
 caption:      Team lead, Mech lead
 description:  >
   Hello

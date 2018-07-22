@@ -1,7 +1,7 @@
 ---
 layout:       member
 title:        Achu Shankar
-rank:         11
+rank:         3
 caption:      Team lead, Elec lead
 description:  >
   Hello
