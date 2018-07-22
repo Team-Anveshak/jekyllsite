@@ -2,9 +2,7 @@
 layout:       member
 title:        Shubham Jain
 caption:      Chassis lead
-rank:         7
-description:  >
-  Hello
+rank:         7	
 image:        /assets/img/members/Shubham Jain.jpg
 screenshot:
   src:        /assets/img/members/Shubham Jain.jpg
