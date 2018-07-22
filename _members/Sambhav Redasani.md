@@ -2,7 +2,7 @@
 layout:       member
 title:        Sambhav Redasani
 rank:         100
-caption:      Design engineer (Chassis) & science team	
+caption:      Design engineer (Chassis)	
 image:        /assets/img/freshers/Sambhav Redasani.jpg
 screenshot:
   src:        /assets/img/freshers/Sambhav Redasani.jpg
